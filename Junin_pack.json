@@ -1,0 +1,50 @@
+{
+  "PlayerData": [
+    {
+      "ID": 990001,
+      "Forename": "Antonio",
+      "Surname": "Araujo",
+      "Age": 19,
+      "Nationality": "Brazil",
+      "ClubID": 450,
+      "Position": "ST",
+      "Ability": 75,
+      "Potential": 96,
+      "PreferredFoot": "Right",
+      "Status": 1
+    },
+    {
+      "ID": 990002,
+      "Forename": "Samuel",
+      "Surname": "Lucas",
+      "Age": 19,
+      "Nationality": "Brazil",
+      "ClubID": 450,
+      "Position": "AML",
+      "Ability": 74,
+      "Potential": 95,
+      "PreferredFoot": "Right",
+      "Status": 1
+    },
+    {
+      "ID": 990003,
+      "Forename": "Enzo",
+      "Surname": "Davi",
+      "Age": 19,
+      "Nationality": "Brazil",
+      "ClubID": 450,
+      "Position": "AMR",
+      "Ability": 74,
+      "Potential": 95,
+      "PreferredFoot": "Left",
+      "Status": 1
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 450,
+      "Name": "Red Bull Salzburg",
+      "ShortName": "RBS"
+    }
+  ]
+}
