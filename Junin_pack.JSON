@@ -1,0 +1,53 @@
+{
+  "PlayerData": [
+    {
+      "ID": 990001,
+      "Forename": "Antonio",
+      "Surname": "Araujo",
+      "Position": "ST",
+      "Foot": "Right",
+      "Overall": 68,
+      "Potential": 94,
+      "Pace": 82,
+      "Shooting": 71,
+      "Dribbling": 73,
+      "Technique": 70,
+      "Finishing": 74
+    },
+    {
+      "ID": 990002,
+      "Forename": "Samuel",
+      "Surname": "Lucas",
+      "Position": "LW",
+      "Foot": "Right",
+      "Overall": 69,
+      "Potential": 95,
+      "Pace": 84,
+      "Dribbling": 80,
+      "Shooting": 75,
+      "Technique": 76,
+      "LongShots": 82
+    },
+    {
+      "ID": 990003,
+      "Forename": "Enzo",
+      "Surname": "Davi",
+      "Position": "ST",
+      "Foot": "Left",
+      "Overall": 66,
+      "Potential": 89,
+      "Pace": 79,
+      "Shooting": 70,
+      "Positioning": 76,
+      "Technique": 60,
+      "Finishing": 73
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 450,
+      "Name": "Red Bull Salzburg",
+      "ShortName": "RBS"
+    }
+  ]
+}
