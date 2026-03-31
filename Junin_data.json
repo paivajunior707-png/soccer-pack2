@@ -1,0 +1,24 @@
+{
+  "PlayerData": [
+    { "ID": 990101, "Forename": "Josmar", "Surname": "Menezes", "Age": 17, "ClubID": 413, "Position": "ST", "Ability": 68, "Potential": 93, "PreferredFoot": "Left", "Nationality": "Brazil" },
+    { "ID": 990102, "Forename": "Estevao", "Surname": "Willian", "Age": 17, "ClubID": 422, "Position": "AMR", "Ability": 78, "Potential": 98, "PreferredFoot": "Left", "Nationality": "Brazil" },
+    { "ID": 990103, "Forename": "Lorran", "Surname": "Lucas", "Age": 18, "ClubID": 413, "Position": "AMC", "Ability": 74, "Potential": 95, "PreferredFoot": "Left", "Nationality": "Brazil" },
+    { "ID": 990104, "Forename": "Vitor", "Surname": "Reis", "Age": 18, "ClubID": 422, "Position": "DC", "Ability": 75, "Potential": 96, "PreferredFoot": "Right", "Nationality": "Brazil" },
+    { "ID": 990105, "Forename": "Rayan", "Surname": "Vitor", "Age": 18, "ClubID": 435, "Position": "RW", "Ability": 72, "Potential": 94, "PreferredFoot": "Left", "Nationality": "Brazil" },
+    { "ID": 990106, "Forename": "Kaua", "Surname": "Elias", "Age": 18, "ClubID": 414, "Position": "ST", "Ability": 73, "Potential": 94, "PreferredFoot": "Right", "Nationality": "Brazil" },
+    { "ID": 990107, "Forename": "Gabriel", "Surname": "Carvalho", "Age": 17, "ClubID": 416, "Position": "AMC", "Ability": 70, "Potential": 94, "PreferredFoot": "Right", "Nationality": "Brazil" },
+    { "ID": 990108, "Forename": "William", "Surname": "Gomes", "Age": 18, "ClubID": 430, "Position": "LW", "Ability": 71, "Potential": 93, "PreferredFoot": "Left", "Nationality": "Brazil" },
+    { "ID": 990109, "Forename": "Luighi", "Surname": "Hanri", "Age": 18, "ClubID": 422, "Position": "ST", "Ability": 67, "Potential": 92, "PreferredFoot": "Right", "Nationality": "Brazil" }
+  ],
+  "ClubData": [
+    { "ID": 413, "Name": "Flamengo", "ShortName": "FLA" },
+    { "ID": 422, "Name": "Palmeiras", "ShortName": "PAL" },
+    { "ID": 414, "Name": "Fluminense", "ShortName": "FLU" },
+    { "ID": 435, "Name": "Vasco", "ShortName": "VAS" },
+    { "ID": 416, "Name": "Internacional", "ShortName": "INT" },
+    { "ID": 430, "Name": "Sao Paulo", "ShortName": "SAO" }
+  ],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
+}
